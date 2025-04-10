@@ -1,6 +1,6 @@
-import { NextConfig } from 'next'
+// import { NextConfig } from 'next'
 
-const nextConfig: NextConfig = {
+const nextConfig = {
   /* config options here */
   eslint: {
     ignoreDuringBuilds: true,
